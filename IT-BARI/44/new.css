@@ -1,0 +1,19 @@
+.div1 {
+	
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	//  float: left;
+	
+	transition: background-color 3s, width 2s, height 4s ease-in-out;
+}
+
+.div1:hover {
+	
+	background-color: red;
+	width: 400px;
+	height: 400px;
+}
+
+
+<!--inspact element a click then chane the property -->

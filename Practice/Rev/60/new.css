@@ -1,0 +1,12 @@
+#div1 {
+	
+	height: 300px;
+	width: 300px;
+	float: left;
+	
+	//background: linear-gradient (to left green, red);
+	//background: linear-gradient( 30deg,yellow, green);
+	//background: linear-gradient(to left, yellow, green);
+	//background: linear-gradient(to right, yellow, green);
+	background: linear-gradient(yellow 50%, green 50%);
+}

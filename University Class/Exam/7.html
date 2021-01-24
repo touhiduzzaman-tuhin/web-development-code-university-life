@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+	<body>
+	
+		
+	
+	</body>
+	
+	<script>
+	
+		function digits_count(n) {
+		
+			  var count = 0;
+			  
+			  if (n >= 1)
+			  {
+				++count;
+			  }
+
+			  while (n / 10 >= 1) {
+				n /= 10;
+				++count;
+			  }
+
+			  return count;
+			}
+
+		document.write(digits_count(12112));
+		
+		document.write("<br>");
+
+		document.write(digits_count(457));
+		
+	</script>
+
+</html>

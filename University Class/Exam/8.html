@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+	<body>
+	
+		
+	
+	</body>
+	
+	<script>
+	
+		var x;
+		
+		x = window.prompt("Enter A Number : ", "0");
+		
+		x = paaseInt(x);
+	
+		function digits_count(x) {
+		
+			  var count = 0;
+			  
+			  if (n >= 1)
+			  {
+				++count;
+			  }
+
+			  while (n / 10 >= 1) {
+				n /= 10;
+				++count;
+			  }
+
+			  return count;
+			}
+
+		document.write(digits_count(x));
+		
+		document.write("<br>");
+
+		
+	</script>
+
+</html>

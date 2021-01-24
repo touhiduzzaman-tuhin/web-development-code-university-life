@@ -1,0 +1,38 @@
+h1 {
+	
+	background-color: #dadada;
+	color: green;
+	padding: 10px;
+	margin: 10px;
+	border: 3px solid black;
+	border-radius: 10px;
+}
+
+h2 {
+	
+	background-color: #5c755e;
+	color: yellow;
+	padding: 10px;
+	margin: 10px;
+	border: 3px solid black;
+	border-radius: 10px;
+}
+
+.test {
+	
+	background-color: #e5e4d7;
+	color: green;
+	display: inline;
+}
+
+
+div, p {
+	
+	background-color: #5c755e;
+	color: yellow;
+	padding: 10px;
+	margin: 10px;
+	border: 3px solid black;
+	border-radius: 10px;
+}
+

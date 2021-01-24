@@ -1,0 +1,59 @@
+div.div1 {
+	
+	background-color:red;
+	color: white;
+	
+	position: fixed;
+	top: 10px;
+	left:10px;
+}
+
+div.div2 {
+	
+	background-color: black;
+	color: white;
+	
+	position: absolute;
+	top: 30px;
+	left:10px;
+}
+
+div.div3 {
+	
+	background-color: black;
+	color: white;
+	
+	position: absolute;
+	top: 60px;
+	left:10px;
+}
+
+div.div4 {
+	
+	background-color: black;
+	color: white;
+	
+	position: absolute;
+	top: 90px;
+	left:10px;
+}
+
+div.div5 {
+	
+	background-color: black;
+	color: white;
+	
+	position: absolute;
+	top: 120px;
+	left:10px;
+}
+
+div.div6 {
+	
+	background-color: black;
+	color: white;
+	
+	position: absolute;
+	top: 150px;
+	left:10px;
+}

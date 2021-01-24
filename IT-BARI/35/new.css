@@ -1,0 +1,46 @@
+table{
+	
+	width: 650px;
+	text-align: center;
+	background-color: #ddd;
+	margin: 10px auto;
+	border-radius: 90px;
+	//padding: 10px;
+}
+
+.cap {
+	
+	background-color: orange;
+	
+}
+
+table, th, td {
+	
+	border-collapse: collapse;
+	border: 2px solid red;
+	//padding: 5px;
+	//border-radius: 5px;
+}
+
+.total {
+	
+	text-align: left;
+}
+
+.name {
+	
+	background-color: #5c755e;
+	color: red;
+}
+
+.last {
+	
+	background-color: yellow;
+	color: red;
+}
+
+.ab {
+	
+	background-color: green;
+	color: red;
+}

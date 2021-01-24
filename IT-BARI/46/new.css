@@ -1,0 +1,29 @@
+.div1 {
+	
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	
+	transition: all 2s ease-in-out;
+
+}
+
+.div1:hover {
+	
+	background-color: red;
+	/*width: 400px;
+	height: 400px;
+	
+	transform: rotate(360deg);
+	transform: scale(2,3);*/
+	
+	transform: skewX(120deg);
+}
+
+
+<!--inspact element a click then chane the property -->
+
+	/*-o-transition: all 2s ease-in-out;
+	-ms-transition: all 2s ease-in-out;
+	-webkit-transition: all 2s ease-in-out;
+	-mox-transition: all 2s ease-in-out;*/

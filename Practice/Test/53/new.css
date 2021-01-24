@@ -1,0 +1,64 @@
+#div3 {
+	
+	background-color: #e5e4d7;
+	color: green;
+	padding: 10px;
+	margin: 10px;
+	border: 3px solid black;
+	border-radius: 10px;
+	width: 300px;
+	float: left;
+	
+}
+
+/*#div3 p:nth-child(even) {
+	
+	background-color: yellow;
+}
+
+
+
+#div3 p:nth-child(odd) {
+	
+	background-color: yellow;
+}
+
+
+
+#div3 p:nth-child(6) {
+	
+	background-color: yellow;
+}
+
+
+
+#div3 p:nth-child(3n) {
+	
+	background-color: yellow;
+}
+
+*/
+
+
+#div3 p:nth-child(3n + 5) {
+	
+	background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

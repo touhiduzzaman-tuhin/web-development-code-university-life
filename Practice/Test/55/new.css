@@ -1,0 +1,35 @@
+#div1, #div2,#div3 {
+	
+	background-color: #e5e4d7;
+	padding: 10px;
+	margin: 10px;
+	border: 3px solid black;
+	border-radius: 10px;
+	width: 300px;
+	float: left;
+	
+}
+
+
+#div1, #div2,#div3 {
+	
+	border: 3px solid yellow;
+}
+
+
+#div1, #div2,#div3 {
+	
+	border: 3px solid orange;
+}
+
+p::first-letter {
+	
+	font-size: 25px;
+	color: red;
+}
+
+
+p:first-line {
+	
+	color: red;
+}

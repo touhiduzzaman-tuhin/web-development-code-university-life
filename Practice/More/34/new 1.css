@@ -1,0 +1,22 @@
+p {
+	
+	background-color: #BDB76b;
+	color: red;
+}
+
+div {
+	
+	background-color: #e5e4d7;
+	color: yellow;
+	height: 30px;
+	width: 300px;
+	//position: absolute;
+	right: 10px;
+	top: 10px;
+	float: right;
+}
+
+body {
+	background-color: lime;
+	font-size: 30px;
+}

@@ -1,0 +1,126 @@
+* {
+	
+	padding: 0;
+	margin: 0;
+}
+
+
+body {
+	
+	background-color: #EEE8AE;
+	width: 960px;
+	margin: 20px auto;
+}
+
+
+#head {
+	
+	background-color: #FAB72A;
+	height: 50px;	
+	border-bottom: 5px solid #6B710E;
+	
+}
+
+#head h2 {
+	
+	color: #FFFFF1;
+	font-family: Georgia;
+	text-align: center;
+	
+}  
+
+
+#back{
+	
+	width: 440px;
+	padding-left: 260px;
+}
+
+#back ul{
+	
+	background-color: black;
+	margin: 10px;
+	border-radius: 5px;
+	
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+	
+
+}
+
+#back ul li {
+	
+	display: inline;
+}
+
+#back ul li a {
+	
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+	margin: 10px;
+	padding: 10px;
+	font-family: inherit;
+	font-size: 120%;
+	
+}
+
+#back ul li a:hover {
+	
+	background-color: #fff;
+	color: #000;
+}
+
+
+
+#res {
+	
+	background-color: #FAB72A;
+	height: 50px;
+	width: 300px;
+	margin-left: 330px;
+	border-radius: 10px;
+	
+	
+}
+
+#res h2 {
+	
+	color: #FFFFF1;
+	font-family: Georgia;
+	text-align: center;
+	
+}  
+
+
+#main{
+	text-align: center;
+	
+	
+}
+
+#pic img{
+	
+	border-radius: 30px;
+	transition: all 1s;
+	transform: rotate(5deg) scale(1);
+}
+
+
+#pic img:hover{
+     transform: rotate(300deg) scale(1.8);
+	 opacity: 1.7;
+}
+
+
+#footer h1{
+	
+	
+}
+ 
+ 
+#footer h2{
+	
+	
+} 

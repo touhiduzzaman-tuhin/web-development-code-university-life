@@ -1,0 +1,21 @@
+body {
+	
+	color:green;
+}
+
+h1 {
+	
+	border-bottom:3px solid pink;
+}
+
+h2 {
+	
+	border-left:3px solid red;
+}
+
+p {
+	
+	font-family:Helvetica;
+	font-size:20px;
+	color:red;
+}

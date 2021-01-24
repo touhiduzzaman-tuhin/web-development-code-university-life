@@ -1,0 +1,100 @@
+body {
+	color:green
+	font-family:vendana,arial,geneva arial black;
+	background-color:#F6E3CE;
+	font-size:25px;
+}
+
+.style1 {
+	font-size:15px;
+	font-family:Helvetica;
+	color:black;
+	background:red;
+	line-height:2em;
+	padding:50px;
+	border-color:green;
+	border-style:solid;
+	border-width:2px;
+}
+
+#style2 {
+	background-color:lime;
+	padding-left:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	margin-left:300px;
+	padding-right:40px;
+	border-color:red;
+	border-width:4px;
+	border-style:solid;
+	margin-bottom:50px;
+	margin-top:50px:
+	
+	
+}
+
+.divmain1 {
+	color:white;
+}
+
+
+.divmain2 {
+	color:green;
+}
+
+.image {
+	display:block;
+	margin-left:Auto;
+	margin-right:Auto;
+	background-color:green;
+	padding:10px;
+	
+	
+}
+
+
+
+.underline1 {
+	text-decoration:underline;
+	font-weight:lighter;
+	text-align:center;
+}
+ 
+.underline2 {
+	text-decoration:line-through;
+	font-weight:normal;
+	background-image:url(Cloud.jpg);
+}
+
+.underline3 { 
+	text-decoration:overline;
+	font-weight:bold;
+	text-align:left;
+}
+
+.underline4 {
+	text-decoration:underline overline line-through;
+	font-weight:bolder;
+	font-style:italic;
+	text-align:right;
+}
+
+h1 {
+	border-bottom:1px solid red;
+	font-size:170%;
+}
+
+h2 {
+	border:1px solid purple;
+	font-size:1.4em;
+	border-style:dotted;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	border-top-right-radius:20px;
+	border-top-left-radius:20px;
+	
+}
+
+.tuhin {
+	background-color:yellow;
+}

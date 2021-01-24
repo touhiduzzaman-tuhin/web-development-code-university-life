@@ -1,0 +1,14 @@
+p {
+	
+	background-image: url("web.jpg");
+	line-height: 2em;
+	//background-repeat: repeat-x;
+	/background-repeat: repeat-y;
+	background-size: cover;
+}
+
+/*
+
+	This is the CSS comment line
+
+ */

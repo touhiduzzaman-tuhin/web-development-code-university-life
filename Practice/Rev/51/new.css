@@ -1,0 +1,23 @@
+/*blockquote.test > b {
+	
+	color: yellow;
+}
+
+blockquote.test  b {
+	
+	color: yellow;
+}
+
+
+
+blockquote  b {
+	
+	color: yellow;
+}
+
+*/
+
+.test  b {
+	
+	color: yellow;
+}

@@ -1,0 +1,33 @@
+#div1 {
+	
+	background-color: #5c755e;
+	color: white;
+	font-family: Georgia;
+	font-size: 25px;
+	font-weight: bold;
+	width: 600px;
+	height: 35px;
+}
+
+#div1 ul {
+	
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-align: center;
+}
+
+#div1 li {
+	
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+#div1 a {
+	
+	text-decoration: none;
+	vertical-align: middle;
+	padding: 15px;
+	color: red;
+}

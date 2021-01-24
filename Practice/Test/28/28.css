@@ -1,0 +1,30 @@
+body {
+	
+	background-color: powderblue;
+	font-family:Verdana;
+	color:green;
+	font-size:25px;
+	
+}
+
+#div1 {
+	
+	color:pink;
+}
+
+
+#div2 {
+	
+	color:red;
+}
+
+.div1 {
+	
+	color:black;
+}
+
+#underline {
+	
+	text-align:center;
+	text-decoration:underline;
+}

@@ -1,0 +1,26 @@
+table {
+	
+	text-align: center;
+	border: 2px solid red;
+	background-color: #e5e4d7;
+	border-collapse: collapse;
+}
+
+.total {
+	
+	text-align: left;
+	background-color: blue;
+	color: black;
+}
+
+.head {
+	
+	background-color: #9c9f84;
+	color: red;
+}
+
+.roll {
+	
+	background-color: green;
+	color: red;
+}

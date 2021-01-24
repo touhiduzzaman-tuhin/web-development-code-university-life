@@ -1,0 +1,42 @@
+ul {
+	
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	
+	display: inline;
+}
+
+a {
+	
+	text-decoration: none;
+	float: left;
+}
+
+a:hover {
+	
+	background-color: green;
+	color: black;
+}
+
+.button {
+	
+	background-color: #5c755e;
+	color: yellow;
+	padding: 0 20px;
+	//padding: 10px;
+	box-sizing: border-box;
+	font: 700 15px Georgia;
+	margin-right: 10px;
+	font-family: Georgia;
+	font-size: 20px;
+	border: 2px solid black;
+	border-radius: 30px;
+	height: 35px;
+	line-height: 35px;
+	//width: 70px;
+	text-align: center;
+}

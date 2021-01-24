@@ -1,0 +1,110 @@
+.para1 {
+	
+	border-color: green;
+	border-width: 3px;
+	border-style: solid;
+}
+
+.para2 {
+	
+	border: 5px solid black;
+}
+
+.para3 {
+	
+	border-bottom-color: green;
+	border-bottom-style: groove;
+	border-bottom-width: thin;
+	
+	
+}
+
+.para4 {
+	
+	border-bottom-color: yellow;
+	border-bottom-style: dotted;
+	border-bottom-width: thick;
+	
+	
+}
+
+.para5 {
+	
+	border-bottom-color: orange;
+	border-bottom-style: dashed;
+	border-bottom-width: medium;
+	
+}
+
+.para10 {
+	
+	border-width: 10px 20px 30px 40px;
+	border-style: solid;
+	border-color: green;
+	
+	
+}
+
+.para13 {
+	
+	border-width: 10px;
+	
+	border-style: solid;
+	border-color: black;
+}
+
+.para12 {
+	
+	border-width: 10px 20px;
+	
+	border-style: solid;
+	border-color: yellow;
+}
+
+.para11 {
+	
+	border-width: 10px 20px 30px;
+	
+	border-style: solid;
+	border-color: lime;
+	
+}
+
+.para9 {
+	
+	border-bottom-color: blue;
+	border-bottom-style: solid;
+	border-bottom-width: 10px;
+	
+	border-radius: 10px;
+	
+	
+}
+
+
+.para8 {
+	
+	border-bottom-color: green;
+	border-bottom-style: outset;
+	border-bottom-width: 10px;
+	
+	
+}
+.para7 {
+	
+	border-bottom-color: green;
+	border-bottom-style: inset;
+	border-bottom-width: 10px;
+	
+	
+}
+
+.para6 {
+	
+	border-bottom-color: green;
+	border-bottom-style: none;
+	border-bottom-width: 10px;
+	
+	
+}
+

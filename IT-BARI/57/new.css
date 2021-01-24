@@ -1,0 +1,21 @@
+.mybtn {
+	
+	height: 40px;
+	width: 130px;
+	padding: 5px;
+	margin: 5px;
+	border: 3px solid black;
+	border-radius: 20px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: center;
+	
+	transition: all 2s ease;
+}
+
+.mybtn:hover {
+	
+	background-color: green;
+	color: red;
+	cursor: help;
+}

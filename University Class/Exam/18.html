@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+	
+       
+	   
+    </head>
+	
+    <body>
+	
+        <table>
+		
+            <tr>
+			
+                <td>First Number </td>
+                <td><input type="number" id="firstNumber"></td>
+				
+            </tr>
+			
+            <tr>
+                <td>last  Number </td>
+                <td><input type="number" id="endingNumber"></td>
+				
+            </tr>
+			
+            <tr>
+			
+                <td>Result </td>
+                <td><input type="text" id="result"></td>
+				
+            </tr>
+			
+            <tr>
+			
+                <td></td>
+				
+                <td>
+				
+                    <input type="submit" id="plus" value="+">
+                    
+                </td>
+				
+            </tr>
+			
+        </table>
+		
+        <script>
+		
+            var plusBtn = document.getElementById('plus');
+			
+            plusBtn.onclick = function () {
+			
+                var firstNumber  =  Number(document.getElementById('firstNumber').value);
+                var lastNumber =   Number(document.getElementById('endingNumber').value);
+                var result  = firstNumber+lastNumber;
+				
+                document.getElementById('result').value = result;
+            };
+           
+        </script>
+        
+        
+        
+    </body>
+</html>

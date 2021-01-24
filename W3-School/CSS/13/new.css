@@ -1,0 +1,28 @@
+
+ul {
+	
+	background-color: green;
+}
+ol {
+	
+	background-color: red;
+}
+
+ul.a {
+	
+	list-style-type: square;
+	color: red;
+}
+
+ul.b {
+	
+	list-style-type: circle;
+}
+
+ul.c {
+	
+	list-style-type: square;
+	margin: 0;
+	padding: 0;
+}
+

@@ -1,0 +1,64 @@
+#main {
+	
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	
+	margin: 300px auto;
+	
+	animation-name: tuhin;
+	
+	
+	animation-name: tuhin;
+	
+	animation-duration: 2s;
+	
+	animation-iteration-count: 4;
+	
+	
+	
+	
+	-webkit-animation-name: tuhin;
+	
+	-webkit-animation-duration: 2s;
+	
+	-webkit-animation-iteration-count: 4;
+	
+	
+	
+	
+	
+	-moz-animation-name: tuhin;
+	
+	-moz-animation-duration: 2s;
+	
+	-moz-animation-iteration-count: 4;
+	
+	
+	
+	
+	
+}
+
+@keyframes tuhin  {
+	
+	from {background-color: green;}
+	to {background-color: red; border-radius: 50%}
+}
+
+
+
+-webkit-@keyframes tuhin  {
+	
+	from {background-color: green;}
+	to {background-color: red; border-radius: 50%}
+}
+
+
+
+
+-moz-@keyframes tuhin  {
+	
+	from {background-color: green;}
+	to {background-color: red; border-radius: 50%}
+}

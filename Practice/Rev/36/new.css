@@ -1,0 +1,58 @@
+.div1 {
+	
+	background-color: green;
+	color: red;
+	
+	position: fixed;
+}
+
+.div2 {
+	
+	background-color: #e5e4d7;
+	color: #5c755e;
+	
+	position: absolute;
+	left: 10px;
+	top: 30px;
+}
+
+.div3 {
+	
+	background-color: #e5e4d7;
+	color: #5c755e;
+	
+	position: absolute;
+	left: 10px;
+	top: 60px;
+}
+
+.div4 {
+	
+	background-color: #e5e4d7;
+	color: #5c755e;
+	
+	position: absolute;
+	left: 10px;
+	top: 90px;
+}
+
+.div5 {
+	
+	background-color: #e5e4d7;
+	color: #5c755e;
+	
+	position: absolute;
+	left: 10px;
+	top: 120px;
+}
+
+.div6 {
+	
+	background-color: #e5e4d7;
+	color: #5c755e;
+	
+	position: absolute;
+	left: 10px;
+	top: 150px;
+}
+

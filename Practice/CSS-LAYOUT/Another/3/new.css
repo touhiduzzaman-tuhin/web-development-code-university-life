@@ -1,0 +1,24 @@
+body {
+	
+	background-color: #9C9F84;
+	font-family: Georgia, Verdana, Arial, Arial Black;
+	font-size: 16px;
+	
+	margin: 0;
+}
+
+#head {
+	
+	background-color: #5C755E;
+	margin: 10px;
+	border-radius: 10px;
+	height: 90px;
+}
+
+#navbar {
+	
+	background-color: #5C755E;
+	margin: 10px;
+	border-radius: 10px;
+	min-height: 38px;
+}

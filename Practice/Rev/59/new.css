@@ -1,0 +1,31 @@
+#div1 {
+	
+	background-color: #dadada;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid black;
+	border-radius: 40px;
+	height: 300px;
+	width: 300px;
+	float: left;
+	display: block;
+}
+
+#div2 {
+	
+	background-color: green;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid black;
+	border-radius: 40px;
+	height: 300px;
+	width: 300px;
+	float: left;
+	display: block;
+	opacity: 0.3;
+}
+
+#div2:hover {
+	
+	opacity: 1.2;
+}

@@ -1,0 +1,26 @@
+#manu {
+	padding: 0;
+	
+}
+
+#manu li {
+	
+	display: inline;
+}
+
+#manu li a {
+	
+	text-decoration: none;
+	background-color: #dadada;
+	color: #5c755e;
+	padding: 10px 20px;
+	margin-right: 10px;
+	
+	transition: all .5s ease;
+}
+
+#manu li a:hover {
+	
+	background-color: #5c755e;
+	color: #dadada;
+}

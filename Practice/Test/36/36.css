@@ -1,0 +1,25 @@
+body {
+	
+	background-color: #e5e4d7;
+	margin: 0px;
+}
+
+#div1 {
+	
+	background-color:white;
+	color:black;
+	padding:10px;
+	margin: 20px;
+}
+
+
+#div2 {
+	
+	background-color:green;
+	color:yellow;
+	padding:10px;
+	margin:20px;
+	height:120px;
+	overflow: scroll;
+	//overflow: hidden;
+}

@@ -1,0 +1,52 @@
+body{
+	
+	margin: 0;
+	padding: 0;
+	background-image: url(../images/frg.jpg);
+}
+
+#main{
+	
+	height: 500px;
+	width: 400px;
+	background-color: pink;
+	color: gray;
+	font-family: sans-sarif;
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 400px;
+	padding-top: 10px;
+	padding-left: 200px;
+	border-radius:50px;
+}
+
+input[type="text"],
+input[type="password"]
+{
+    display: block;
+    box-sizing: border-box;
+    width: 250px;
+    height: 35px;
+    border: none;
+    outline: none;
+	border-radius: 5px;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+}
+
+#sbmt
+{
+
+	font-size: 20px;
+	border: none;
+	height: 40px;
+	color: #fff;
+	background: red;
+	outline: none;
+	border-radius: 20px;
+	padding: 8px 80px;
+
+}

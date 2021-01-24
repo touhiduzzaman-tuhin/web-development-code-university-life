@@ -1,0 +1,10 @@
+img.special {
+	
+	background-color:yellow;
+	padding: 10px;
+	border : black 2x solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}

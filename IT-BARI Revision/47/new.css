@@ -1,0 +1,8 @@
+p {
+	
+	background-image: url("web.jpg");
+	color: blue;
+	
+	background-size: cover;
+	background-attachment: fixed;
+}

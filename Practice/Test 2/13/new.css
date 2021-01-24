@@ -1,0 +1,46 @@
+body {
+	
+	color: blue;
+	font-size: 20px;
+	font-family: Georgia, Arial, serif, inherit, Arial Black, Verdana;
+	font-weight: bold;
+	
+}
+
+.para1 {
+	
+	color: #e5e4d7;
+	font-style: italic;
+}
+
+.para2 {
+	
+	color: #5c755e;
+	font-style: oblique;
+}
+
+.underline {
+	
+	text-decoration: underline;
+}
+
+.head1 {
+	
+	text-decoration: underline;
+}
+
+.head2 {
+	
+	text-decoration: overline;
+}
+
+.head3 {
+	
+	text-decoration: line-through;
+}
+
+.head4 {
+	
+	text-decoration: underline overline line-through;
+	
+}

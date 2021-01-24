@@ -1,0 +1,116 @@
+*{
+	
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	
+	font-family: justify;
+	align: center;
+}
+
+#main{
+	
+	background-image: url(tuhin.jpg);
+	height: 1000px;
+	width: 100%;
+	padding-left: 20px;
+	
+}
+
+#head{
+	
+	height: 200px;
+	width: 800px;
+	
+}
+
+#logo img{
+	
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+#banner{
+	
+	height: 200px;
+	width: 800px;
+	background-color: black;
+}
+
+
+#banner ul{
+	
+	list-style-type: none;
+}
+
+#banner ul li{
+	padding: 60x;
+	margin: 20px;
+	float: left;
+	border: 2px solid gray;
+}
+
+#banner ul li a{
+	
+	color: green;
+	background-color: red;
+	border-radius: 50px 0px;
+	text-decoration: none;
+	font-size: 20px;
+	
+}
+
+#banner ul li a:hover{
+	
+	color: red;
+	background-color: green;
+	border-radius: 0px 50px;
+}
+
+#content{
+	
+	height: 600px;
+}
+
+#content img{
+	
+	height: 200px;
+	width: 200px;
+	float: left;
+	padding-left: 300px;
+}
+
+#text{
+	
+	width: 500px;
+	float: left;
+	
+}
+
+#sidebar{
+	
+	width: 100px;
+	float: left;
+	padding-left: 100px;
+}
+
+#sidebar ul{
+	
+	list-style-type: none;
+}
+
+#foot img{
+	
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+
+
+#foot {
+	
+	height: 100px;
+}

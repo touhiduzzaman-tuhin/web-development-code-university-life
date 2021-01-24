@@ -1,0 +1,35 @@
+#main {
+	
+	list-style-type: none;
+	padding: 0;
+	width: 960px;
+	margin|: 0 auto;
+	
+	background-color: green;;
+		
+}
+
+ul li {
+	
+	float: left;
+
+}
+
+ul li a {
+	
+	text-decoration: none;
+	color: red;
+	background-color: #5c755e;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 10px;
+	display: block;
+}
+
+ul li a:hover {
+	
+	background-color: #e5e4d7;
+	color: green;
+}

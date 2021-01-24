@@ -1,0 +1,18 @@
+span.a {
+	
+	display: inline-block;;
+	background-color: yellow;
+	height: 50px;
+}
+
+body {
+	
+	background-color: #dadada;
+	color: black;
+	font-family: Georgia;
+	font-size: 25px;
+	padding: 10px;
+	margin: 10px;
+	border: 5px solid gray;
+	border-radius: 30px;
+}

@@ -1,0 +1,21 @@
+div {
+	
+	background-color: yellow;
+	color: black;
+	border: medium dashed red;
+	margin: 20px;
+	padding: 10px;
+}
+
+img.image {
+	
+	background-color: green;
+	border: 3px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+body {
+	
+	background-color: #BDB76B;
+}

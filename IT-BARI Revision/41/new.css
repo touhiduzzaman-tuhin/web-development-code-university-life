@@ -1,0 +1,13 @@
+span.a {
+	
+	display: block;
+	background-color: green;
+	color: red;
+}
+
+span.b {
+	
+	display: inline;
+	background-color: green;
+	color: red;
+}

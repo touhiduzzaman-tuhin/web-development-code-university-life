@@ -1,0 +1,10 @@
+img.image {
+	
+	background-color: #BDB76B;
+	padding: 20px;
+	margin: 20px;
+	border: 5px solid black;
+	//display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

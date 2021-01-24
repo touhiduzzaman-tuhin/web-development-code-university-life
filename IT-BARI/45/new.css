@@ -1,0 +1,24 @@
+.div1 {
+	
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	//  float: left;
+	
+	transition: all 2s ease-in-out;
+}
+
+.div1:hover {
+	
+	background-color: red;
+	/*width: 400px;
+	height: 400px;
+	
+	transform: rotate(360deg);
+	transform: scale(2,3);*/
+	
+	transform: skewX(120deg);
+}
+
+
+<!--inspact element a click then chane the property -->

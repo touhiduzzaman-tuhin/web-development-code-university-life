@@ -1,0 +1,29 @@
+body {
+	
+	background-color: #e5e4d7;
+	color: e7e7e7;
+	font-size: 20px;
+}
+
+
+h1 {
+	
+	background-color: purple;
+	color: green;
+}
+
+h2 {
+	
+	background-color: gray;
+	color: black;
+}
+
+.para1 {
+	
+	font-size: 250%;
+}
+
+.para2 {
+	
+	font-size: 3.6em;
+}

@@ -1,0 +1,29 @@
+.div1 {
+	
+	height: 200px;
+	width: 200px;
+	background-color: green;
+	
+	position: relative;
+	
+	animation-name: tuhin;
+	animation-duration: 1s;
+	animation-iteration-count: 5;
+	animation-delay: 1s;
+	
+	animation-direction: alternate;
+}
+
+@keyframes tuhin {
+	
+	from{
+		left: 0px;
+	}
+	
+	to {
+		
+		left: 300px;
+	}
+}
+
+animation-direction: reverse;

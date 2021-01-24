@@ -1,0 +1,59 @@
+#para1 {
+	
+	border-style: solid;
+	border-width:5px;
+}
+
+#para2 {
+	
+	border-style: double;
+	border-width: thin;
+}
+
+#para3 {
+	
+	border-style: none;
+}
+
+#para4 {
+	
+	border-style: dotted dashed;
+	border-width: medium:
+}
+
+#para5 {
+	
+	border-style: dashed;
+	border-width: thick;
+}
+
+#para6 {
+	
+	border-style: hidden;
+}
+
+#para7 {
+	
+	border-style: groove solid dotted dashed;
+	border-width: 0.5em;
+}
+
+#para8 {
+	
+	border-style: inset;
+} 
+
+#para9 {
+	
+	border-style: outset;
+}
+
+#para10 {
+	
+	border-style: ridge;
+	border-style:groove;
+	border-width:2px;
+	border-color:#296A64;
+	background-color:powderblue;
+	
+}

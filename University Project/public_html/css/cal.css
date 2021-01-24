@@ -1,0 +1,162 @@
+
+body{
+	
+	padding-left: 150px;
+	background-color: green;
+}
+
+#main{
+	
+	background-image: url(../images/1.jpg);
+	height: 1450px;
+	width: 1000px;
+	border-radius: 50px;
+	margin-top: 20px auto;
+}
+
+#calculator{
+	
+	width: 320px;
+	height: 520px;
+	border-radius: 50px;
+	background-color: white;
+	margin: 0 auto;
+	top: 120px;
+	position: relative;
+	
+}
+
+#result{
+	
+	height: 120px;
+}
+
+#history{
+	
+	height: 20px;
+	text-align: right;
+	font-size: 25px;
+	padding-top: 20px;
+	margin: 0 20px;
+}
+
+#output{
+	
+	height: 60px;
+	text-align: right;
+	font-size: 40px;
+	margin: 10px 20px;
+	
+}
+
+#keybord{
+	
+	height: 400px;
+}
+
+
+.operator, .number, .empty{
+	
+	height: 50px;
+	width: 50px;
+	font-size: 15px;
+	border-radius: 50%;
+	float: left;
+	margin: 15px;
+	font-weight: bold;
+	border-width: 0;
+	
+}
+
+.operator, .number{
+	
+	cursor: pointer;
+}
+
+.empty, .number{
+	
+	background-color: white;
+}
+
+
+.operator:focus, .number:focus, .empty:focus{
+	outline: 0;
+}
+
+
+
+
+
+#calender{
+	
+	width: 450px;
+	height: 450px;
+	border-radius: 30px;
+	background-color: white;
+	margin: 0 auto;
+	top: 50px;
+	position: relative;
+	
+}
+
+#month h2{
+	
+	text-align: center;
+	padding: 10px;
+}
+
+#day{
+	
+	font-size: 25px;
+	float: left;
+	padding: 21px;
+	
+}
+
+#number{
+	
+	font-size: 20px;
+	float: left;
+	padding: 20px;
+	
+}
+
+
+
+#heading{
+	
+	height: 50px;
+	width: 200px;
+	padding: 5px;
+	border-radius: 20px;
+	text-align: center;
+	background: white;
+	margin-left: 400px;
+	margin-top: 200px;
+}
+
+#headng{
+	
+	height: 50px;
+	width: 200px;
+	padding: 5px;
+	border-radius: 20px;
+	text-align: center;
+	background: white;
+	margin-left: 400px;
+}
+
+
+#footer{
+	
+	height: 50px;
+	width: 600px;
+	text-align: center;
+	color: green;
+	background-color: red;
+	margin-top: 100px;
+	margin-left: 200px;
+	padding: 10px;
+	border-radius: 50px;
+	
+}

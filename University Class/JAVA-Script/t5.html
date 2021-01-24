@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+		<title> Change Size </title>
+		
+		
+		<style>
+			
+			#main{
+			
+				color = "green";
+			}
+			
+		
+		</style>
+	
+	</head>
+	
+	<body>
+	
+		<h3> Java Script </h3>
+		
+		<p id = "demo"> This is paragraph And heading </p>
+		
+		<button type = "button" onclick = "document.getElementById('demo').style.
+			fontSize = '30px'">
+
+			Click Me!
+			
+		</button> 
+		
+		<br>
+		<br>
+		
+		<script id = "main">
+		
+			var fstnumber,
+				scndnumber,
+				fst,
+				scnd,
+				finalresult,
+				res;
+				
+			fstnumber = window.prompt("Enter A number: ", "0");
+			
+			scndnumber = window.prompt("Enter Another number: ", "0");
+			
+			
+			
+			fst = parseInt(fstnumber);
+			
+			scnd = parseInt(scndnumber);
+			
+			res = fst + scnd;
+			
+			finalresult = window.prompt("fst + scnd = ?");
+			
+			if (finalresult == res)
+			
+			{
+				window.confirm("Your Answer is correct. \n Press Ok and Enjoy!");
+			}
+			
+			else
+			{
+				window.confirm("Your Answer is Wrong. \n Plese Refresh the page and try again");
+			}
+			
+		
+		</script>
+		
+	
+	</body>
+
+</html>

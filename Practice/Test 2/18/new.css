@@ -1,0 +1,14 @@
+.para1 {
+	
+	border: 3px solid black;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.para2 {
+	
+	border: 3px solid green;
+	padding: 20px;
+}

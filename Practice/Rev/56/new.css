@@ -1,0 +1,19 @@
+#div3 {
+	
+	background-color: #e5e4d7;
+	color: green;
+	font-family: Georgia;
+	font-size: 15px;
+	padding: 10px;
+	margin: 10px;
+	border: 5px solid black;
+	border-radius: 20px;
+	display: block;
+	float: left;
+	width: 300px;
+}
+
+#div3 p:nth-child(3n + 7) {
+	
+	color: red;
+}

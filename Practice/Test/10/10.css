@@ -1,0 +1,26 @@
+body {
+	
+	background-color:powderblue;
+	font-size:25px;
+	font-family:Verdana,Arial,Geniva,Arial Black;
+}
+
+.color3 {
+	
+	color:green;
+}
+
+.underline {
+	
+	text-decoration:underline;
+}
+
+p.color1 {
+	
+	color:red;
+}
+
+h1, h2 {
+	
+	border:5px solid pink;
+}

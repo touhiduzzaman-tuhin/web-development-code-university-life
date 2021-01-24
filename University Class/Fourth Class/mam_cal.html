@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title> Form</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>First Number </td>
+                <td><input type="number" id="firstNumber"></td>
+            </tr>
+            <tr>
+                <td>last  Number </td>
+                <td><input type="number" id="endingNumber"></td>
+            </tr>
+            <tr>
+                <td>Result </td>
+                <td><input type="text" id="result"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" id="plus" value="+">
+                    <input type="submit" id="minus" value="-">
+                    <input type="submit" id="multiplication" value="*">
+                    <input type="submit" id="division" value="/">
+                    <input type="submit" id="reminder" value="%">
+                </td>
+            </tr>
+        </table>
+        <script>
+            var plusBtn = document.getElementById('plus');
+            plusBtn.onclick = function () {
+                var firstNumber  =  Number(document.getElementById('firstNumber').value);
+                var lastNumber =   Number(document.getElementById('endingNumber').value);
+                var result  = firstNumber+lastNumber;
+                document.getElementById('result').value = result;
+            };
+            
+            var minusBtn = document.getElementById('minus');
+            minusBtn.onclick = function () {
+               var firstNumber  =  Number(document.getElementById('firstNumber').value);
+                var lastNumber =   Number(document.getElementById('endingNumber').value);
+                var result  = firstNumber-lastNumber;
+                document.getElementById('result').value = result;
+            };
+        </script>
+        
+        
+        
+    </body>
+</html>

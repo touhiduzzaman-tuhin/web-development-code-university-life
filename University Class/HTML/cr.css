@@ -1,0 +1,60 @@
+#main{
+	
+	height: 1000px;
+	width: 960px;
+	align: center;
+}
+
+#head{
+	
+	height: 100px;
+	width: 960px;
+	
+}
+
+#logo img{
+	
+	height: 100px;
+	width: 100px;
+}
+
+#other{
+	
+	height: 50px;
+	width: 860px;
+	text-align: center;
+}
+
+
+.nav{
+	height: 100px;
+	width: 960px;
+}
+
+.nav ul{
+	
+	list-style-type: none;
+}
+
+.nav ul li{
+	
+	text-decoration: none;
+	float: left;
+}
+
+.nav ul li a{
+	
+	color: green;
+	background-color: red;
+	transform: 1s;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 2px solid black;
+}
+
+.nav ul li a:hover{
+	
+	color: red;
+	background-color: green;
+	transform: 1s;
+}

@@ -1,0 +1,66 @@
+body {
+	
+	background-color: #e5e4d7;
+	color:green;
+}
+
+.div1 {
+	
+	background-color: #9c9f84;
+	border-radius: 20px;
+	padding: 10px;
+	cursor: help;
+	
+}
+
+.button {
+	
+	background-color: #e7e7e7;
+	padding: 0 20px;
+	margin: 0 auto;
+	border: 1px solid black;
+	border-radius: 3px;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	box-sizing: border-box;
+	font: 700 13px Verdana, Georgia, serif;
+}
+
+a {
+	
+	color: #666;
+	text-decoration: none;
+	float: left;
+}
+
+
+a:hover {
+	
+	color:#000;
+	background-color: #dadada;
+	//cursor: move;
+	//cursor: none;
+	//cursor: auto;
+	//cursor: default;
+	//cursor: url;
+	//cursor: pointer;
+	//cursor: text;
+	//cursor: hand;
+	//cursor: grabbing;
+	//cursor: copy;
+	//cursor: alias;
+	//cursor: cell;
+	//cursor: wait;
+	//cursor: progress;
+	//cursor: spinning;
+	cursor: non-drop;
+	
+}
+
+
+
+
+
+
+

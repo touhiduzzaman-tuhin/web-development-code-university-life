@@ -1,0 +1,14 @@
+.line1 {
+	
+	text-decoration:underline;
+}
+
+.line2 {
+	
+	text-decoration:overline;
+}
+
+.line3 {
+	
+	text-decoration:line-through;
+}

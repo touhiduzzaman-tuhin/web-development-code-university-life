@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+		<title> Change Size </title>
+	
+	</head>
+	
+	<body>
+	
+		<h3> Java Script </h3>
+		
+		<p id = "demo"> This is paragraph And heading </p>
+		
+		<button type = "button" onclick = "document.getElementById('demo').style.
+			fontSize = '30px'">
+
+			Click Me!
+			
+		</button> 
+		
+		<br>
+		<br>
+		
+		<script>
+		
+			var fstnumber,
+				scndnumber,
+				fst,
+				scnd,
+				finalresult,
+				res;
+				
+			fstnumber = window.prompt("Enter A number: ", "0");
+			
+			scndnumber = window.prompt("Enter Another number: ", "0");
+			
+			finalresult = window.prompt("What is the Sum of your number? ");
+			
+			fst = parseInt(fstnumber);
+			
+			scnd = parseInt(scndnumber);
+			
+			res = fst + scnd;
+			
+			if (finalresult == res)
+			
+			{
+				document.getElementById("demo").innerHTML = "Your Answer is correct. <br> Press Ok and Enjoy!";
+			}
+			
+			else
+			{
+				do
+			}
+			
+			
+		
+		</script>
+		
+	
+	</body>
+
+</html>

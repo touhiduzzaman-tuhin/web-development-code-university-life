@@ -1,0 +1,37 @@
+#div1 {
+	
+	background-color: #5c755e;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	//width: 300px;
+	border: 5px solid black;
+	border-radius: 50px;
+	display: table;
+	height: 30px;
+	line-height: 18px;
+	float: left;
+	
+}
+
+#test {
+	
+	display: table-row;
+}
+
+#div1 label {
+	
+	display: table-cell;
+	text-align: right;
+	padding: 3px;
+}
+
+#div1 input {
+	
+	//background-color: green;
+	//color: red;
+	display: table-cell;
+	padding: 3px;
+	border-radius: 3px;
+	
+}

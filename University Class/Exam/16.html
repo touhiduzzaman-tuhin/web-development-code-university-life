@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+		
+	
+	</head>
+	
+	<body>
+	
+		
+		<form>
+		
+			Width :
+			
+			<input type = "text" value = "" id = "width">
+			
+			<br>
+			<br>
+			
+			Height :
+			
+			<input type = "text" value = "" id = "height">
+			
+			<br>
+			<br>
+			
+			Area :
+			
+			<input type = "text" value = "" id = "area">
+			
+			<br>
+			<br>
+			
+			<button type = "button" onclick = "myfunction()" value = "calculate">
+			calculate </button>
+		
+		</form>
+		
+		
+		
+	</body>
+	
+	<script>
+	
+            function myfunction () {
+			
+                var x  =  Number(document.getElementById('width').value);
+				
+                var y =   Number(document.getElementById('height').value);
+				
+                var z  = x + y;
+				
+                document.getElementById('area').value = z;
+            };
+            
+		
+	</script>
+
+</html>

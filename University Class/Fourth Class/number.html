@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+   
+       <title> Form</title>
+
+       <meta charset="UTF-8">
+
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   </head>
+
+   <body>
+
+       <table>
+
+           <tr>
+
+               <td> Start Number </td>
+
+               <td><input type="number" id="start"></td>
+
+           </tr>
+
+           <tr>
+
+               <td>End Number </td>
+
+               <td><input type="number" id="end"></td>
+
+           </tr>
+
+           <tr>
+
+               <td>Result </td>
+
+               <td><input type="number" id=""></td>
+           </tr>
+
+           <tr>
+               <td></td>
+
+               <td><input type="submit" id="btn" value="SubmiT"></td>
+
+           </tr>
+
+       </table>
+
+       <script>
+	   
+           var submitElement = document.getElementById('btn');
+		   
+           submitElement.onclick = function () {
+		   
+               var start = document.getElementById('start').value;
+			   
+               var end = document.getElementById('end').value;
+			   
+				var x;
+
+				for(x=start; x<=end; x++) {
+					document.write(x+ ''); 
+					
+					document.write("<br>"); 
+								  
+					 }    
+					document.write("\n"); 			  
+			};
+       </script>
+       
+       
+       
+   </body>
+</html>

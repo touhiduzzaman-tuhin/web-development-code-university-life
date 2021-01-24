@@ -1,0 +1,13 @@
+h1 {
+	
+	border-bottom:5px solid black;
+	border-top:7px solid green;
+	border-left:6px solid red;
+	border-right:9px solid pink;
+	
+}
+
+h2 {
+	
+	border:5px solid powderblue;
+}

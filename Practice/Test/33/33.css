@@ -1,0 +1,39 @@
+h1 {
+	
+	background-color:green;
+	color:yellow;
+}
+
+
+div.div1 {
+	
+	background-color:red;
+	color: white;
+	float: left;
+	width: 300px;
+	//width: 50%;
+}
+
+div.div2 {
+	
+	background-color:black;
+	color: white;
+	float: right;
+	width: 300px;
+	//width:50%;
+}
+
+p {
+	
+	border-color:#e5e4d7;
+	border-style: solid;
+	border-width: 2px;
+}
+
+
+
+h2 {
+	
+	background-color:green;
+	color:yellow;
+}

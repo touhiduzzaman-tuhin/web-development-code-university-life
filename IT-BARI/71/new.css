@@ -1,0 +1,30 @@
+#div1 {
+	
+	padding: 0;
+	
+}
+
+#div1 li {
+	display: inline;
+	
+}
+
+#div1 li a {
+	
+	text-align: center;
+	text-decoration: none;
+	background-color: blue;
+	color: yellow;
+	padding: 10px;
+	margin: 10px;
+	border: 1pxm solid black;
+	border-radius: 10px;
+	
+	transition: all 2s ese;
+}
+
+#div1 li a:hover {
+	
+	background-color: #e5e4d7;
+	color:red;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+		<title> Test </title>
+		
+		<link rel = "stylesheet" type = "text/css" href = "new.css">
+	
+	</head>
+	
+	<body>
+	
+		<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Memini me adesse P. Itaque homo in primis ingenuus et gravis, dignus illa familiaritate Scipionis et Laelii, Panaetius, cum ad Q. Quid est enim aliud esse versutum? Summum ením bonum exposuit vacuitatem doloris;
+
+		Tanti autem aderant vesicae et torminum morbi, ut nihil ad eorum magnitudinem posset accedere. Negat enim summo bono afferre incrementum diem. Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem. Duo Reges: constructio interrete. Quae cum dixisset, finem ille. Idem iste, inquam, de voluptate quid sentit? </p>
+		 
+		 
+		
+		
+	</body>	
+
+</html>

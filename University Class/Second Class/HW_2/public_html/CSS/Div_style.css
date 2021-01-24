@@ -1,0 +1,80 @@
+.divone{
+    height: 200px;
+    width: 20%;
+    padding-left: 100px;
+    padding-top: 100px;
+    float: left;
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 3px solid cadetblue;
+    border-radius: 15px;
+    margin-top: 10px;
+   
+}
+
+
+.divtwo{
+    height: 200px;
+    width: 80%;
+    padding-left: 100px;
+    padding-top: 100px;
+    float: left;
+    background-color: yellow;
+    box-sizing: border-box;
+    border: 3px solid burlywood;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+
+.divthree{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: darkgray;
+    box-sizing: border-box;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+
+.divfour{
+    height: 300px;
+    width: 33%;
+    float: left;
+    background-color: yellowgreen;
+    box-sizing: border-box;
+    border: 3px solid darkgray;
+    border-radius: 15px;
+}
+
+.divfive{
+    height: 300px;
+    width: 34%;
+    float: left;
+    background-color: saddlebrown;
+    box-sizing: border-box;
+    border: 3px solid yellow;
+    border-radius: 15px;
+}
+
+.divsix{
+    height: 300px;
+    width: 33%;
+    float: left;
+    background-color: blueviolet;
+    box-sizing: border-box;
+    border: 3px solid navajowhite;
+    border-radius: 15px;
+}
+
+.divseven{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color: brown;
+    box-sizing: border-box;
+    border: 3px solid tan;
+    border-radius: 15px;
+    margin-bottom: 50px
+}

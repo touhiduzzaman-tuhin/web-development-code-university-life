@@ -1,0 +1,225 @@
+* {
+	
+	padding: 0;
+	margin: 0;
+}
+
+
+body {
+	
+	background-color: #EEE8AE;
+	width: 960px;
+	margin: 20px auto;
+	border-radius: 100px;
+}
+
+
+#head {
+	
+	background-color: #FAB72A;
+	height: 50px;	
+	border-bottom: 5px solid #6B710E;
+	
+}
+
+#head h2 {
+	
+	color: #FFFFF1;
+	font-family: Georgia;
+	text-align: center;
+	
+}  
+
+
+
+
+table,th,td{
+	
+          text-align: center;
+		  align: center;		  
+          width: 650px;		  
+          border: 2px solid cadetblue;
+          border-collapse: collapse;
+          border-spacing: 10px;
+          background-color: #e5e4d7;
+          cellpadding: 5;
+          color: firebrick;
+                
+        }
+			
+	
+th{
+			
+		font-size: 20px;
+				
+  }
+
+
+#info{
+	
+	padding-left: 150px;
+}
+
+
+#res {
+	
+	background-color: #FAB72A;
+	height: 50px;
+	width: 300px;
+	margin-left: 330px;
+	border-radius: 10px;
+	
+	
+}
+
+#res h2 {
+	
+	color: #FFFFF1;
+	font-family: Georgia;
+	text-align: center;
+	
+}   
+
+#back{
+	
+	width: 350px;
+	padding-left: 305px;
+	
+}
+
+#back ul{
+	
+	background-color: coral;
+	margin: 10px;
+	border-radius: 5px;
+	
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+	
+
+}
+
+#back ul li {
+	
+	display: inline;
+}
+
+#back ul li a {
+	
+	background-color: coral;
+	color: #fff;
+	text-decoration: none;
+	margin-left: 20px;
+	padding: 10px;
+	font-family: inherit;
+	font-size: 120%;
+	border-radius: 10px;
+	
+}
+
+#back ul li a:hover {
+	
+	background-color: #fff;
+	color: #000;
+}
+
+
+
+#frm{
+	
+	padding-left: 150px;
+	font-size: 18px;
+	border-radius: 100px;
+}
+
+#paper{
+	
+	background-color: cornsilk;
+	height: 1520px;
+	width: 500px;
+	padding: 50px;
+	border-radius: 100px;
+	padding-left: 200px;
+	
+}
+
+#gender{
+	
+	padding-left: 120px;
+}
+
+#sub{
+	
+	padding-left: 120px;
+}
+
+#com{
+	
+	padding-left: 10px;
+	
+}
+
+#nm{
+	margin-left: 120px;
+	height: 30px;
+	width: 80px;
+	border-radius: 7px;
+}
+
+#city{
+	
+	margin-left: 120px;
+	height: 30px;
+	width: 80px;
+	border-radius: 7px;
+}
+
+
+#fc{
+	margin-left: 120px;
+	height: 30px;
+	width: 80px;
+	border-radius: 7px;
+}
+
+#mb{
+	
+	margin-left: 120px;
+	height: 30px;
+	width: 150px;
+	border-radius: 7px;
+}
+
+#uf{
+	
+	margin-left: 120px;
+
+}
+
+#btn{
+	
+	margin-left: 400px;
+	height: 30px;
+	width: 100px;
+	font-size: 20px;
+	border-radius: 10px;
+}
+
+
+input[type="text"],
+input[type="password"]
+{
+    display: block;
+    box-sizing: border-box;
+    width: 250px;
+    height: 35px;
+    border: none;
+    outline: none;
+	border-radius: 5px;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+}

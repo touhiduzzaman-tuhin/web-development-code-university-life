@@ -1,0 +1,44 @@
+body {
+	
+	background-color: #9c9f84;
+	font-family: Verdana;
+	padding: 10px;
+}
+
+
+
+.div2 {
+	
+	background-color: #BDB76B;
+	color: green;
+	padding: 10px;
+	margin: 10px;
+	border: thick dotted black;
+	font-size: 25px;
+}
+
+
+.button {
+	
+	background-color: #BDB76B;
+	color: green;
+	padding: 0 auto;
+	margin: 0 auto;
+	display: block;
+	border: thick solid black;
+	font-size: 25px;
+}
+
+a {
+	
+	color: #000;
+	text-decoration: none;
+	float: left;
+}
+
+a:hover{
+	
+	color: red;
+	background-color: lime;
+	cursor: default;
+}

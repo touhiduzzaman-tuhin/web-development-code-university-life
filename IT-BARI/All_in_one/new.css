@@ -1,0 +1,47 @@
+h3 {
+	
+	color: blue;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+h3 {
+	
+	color: yellow;
+}
+
+h3.para1 {
+	
+	color: green;
+	text-align: center;
+	text-decoration: line-through;
+}
+
+#main {
+	
+	color: #5c755e;
+}
+
+.und {
+	
+	font-size: 30px;
+}
+
+p {
+	
+	font-family: Georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: small-caps;
+	
+	
+	text-align: left;
+	text-decoration: none;
+	text-indent: 20px;
+	text-transform: uppercase;
+	line-height: 1.2em;
+	background-image: url("web.jpg");
+	background-repeat: no repeat;
+	background-attachment: fixed;
+}

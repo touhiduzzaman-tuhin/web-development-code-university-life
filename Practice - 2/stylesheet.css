@@ -1,0 +1,52 @@
+body {
+		color:green;
+		font-family:Verdana,Arial,Geneva,Arial Black;
+		font-weight:normal;
+		background-color:#153A21;
+		font-size:25px;
+		
+				
+		
+		<!-- font-weight bold/bolder/lighter/normal -->
+		}
+
+	.shawon {text-decoration:underline}
+	.shahed {text-decoration:overline;padding-left:10px;padding-rigth:10pxpadding-top:10pxpadding-battom:10px}	
+	.rana {text-decoration:line-through;margin-left:100px;margin-right:15px;margin-top:18px;margin-battom:200px;}	
+	.tuhin {text-decoration:underline overline line-through; font-style:oblique;font-size:1.5em;}	
+
+
+	
+	h1,h2 {
+		background-color:pink;
+		border-bottom:2px solid black;
+		border:2px solid green;
+		font-size:200%;
+		
+		
+		}
+		
+	
+	.underline {text-decoration:underline}
+	
+	p {
+		color:red;
+		font-size:20px;
+		font-style:italic
+		line-height:1.5em;
+		background-color:green;
+    		padding:20px;
+		border-width:2px
+		border-color:red;
+		border-style:solid;
+		}
+
+.image {
+	display:block;
+	background-color:green;
+	margin-left:auto;
+	margin-right:auto;
+	padding:4px;
+	
+	
+	}

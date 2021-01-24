@@ -1,0 +1,168 @@
+.para1 {
+	
+	border-color: green;
+	border-width: 3px;
+	border-style: solid;
+}
+
+.para2 {
+	
+	border: 5px solid black;
+}
+
+.para3 {
+	
+	border-bottom-color: green;
+	border-bottom-style: groove;
+	border-bottom-width: thin;
+	
+	
+}
+
+.para4 {
+	
+	border-bottom-color: yellow;
+	border-bottom-style: dotted;
+	border-bottom-width: thick;
+	
+	
+}
+
+.para5 {
+	
+	border-bottom-color: orange;
+	border-bottom-style: dashed;
+	border-bottom-width: medium;
+	
+}
+
+.para10 {
+	
+	border-width: 10px 20px 30px 40px;
+	border-style: solid;
+	border-color: green;
+	
+	
+}
+
+.para13 {
+	
+	border: 10px solid black;
+	
+	width: 500px;
+	
+	min-width: 400px;
+	
+	margin: auto;
+	
+	outline: 10px solid green;
+	
+	outline-offset: 20px;
+	
+	background-color: blue;
+}
+
+.para12 {
+	
+	border: 10px solid black;
+	
+	margin: 0px 0px 30px 0px;
+	
+	
+	padding: 0px 0px 30px 0px;
+	
+	height: 100px;
+	min-height: 50px;
+}
+..para11 {
+	
+	border: 10px solid black;
+	
+	margin: 10px 0px 0px 0px;
+	
+	padding: 10px 0px 0px 0px;
+	
+	height: 50px;
+	max-height: 100px;
+	
+	background-color: green;
+}
+
+.para9 {
+	
+	border: 10px solid black;
+	
+	margin: 10px;
+	
+	height: 300px;
+	width: 300px;
+	
+	
+	padding: 10px;
+}
+
+
+.para8 {
+	
+	border: 10px solid black;
+	
+	margin: 20px;
+	
+	
+	padding: 20px;
+	
+	width: 320px;
+	
+	max-height: 100%;
+	
+	outline: 10px solid red;
+	
+	outline-offset: 20px;
+}
+
+.para7 {
+	
+	border: 10px solid black;
+	
+	margin: 10px 20px 30px;
+	
+	
+	padding: 10px 20px 30px;
+	
+	height: 50px;
+	
+	max-width: 50%;
+	
+	outline-color: green;
+	outline-style: dotted;
+	outline-width: 10px;
+	
+	outline-offset: 20px;
+	
+	
+}
+
+
+.para6 {
+	
+	border: 10px solid black;
+	
+	margin: 10px 20px 30px 40px;
+	
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 30px;
+	padding-top: 40px;
+}
+
+.para14 {
+	
+	border: 10px solid black;
+	
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 30px;
+	margin-top: 40px;
+	
+	padding: 10px 20px 30px 40px;
+}

@@ -1,0 +1,82 @@
+#main {
+	
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	
+	position: relative;
+	
+	
+
+	
+	
+	
+	animation-name: tuhin;
+	
+	animation-duration: 2s;
+	
+	animation-iteration-count: infinite;
+	
+	animation-direction: alternate;
+	
+	
+	animation-delay: 1s;
+	
+	
+	
+	-webkit-animation-name: tuhin;
+	
+	-webkit-animation-duration: 2s;
+	
+	-webkit-animation-iteration-count: infinite;
+	
+	-webkit-animation-direction: alternate;
+	
+	-webkit-animation-delay: 1s;
+	
+	
+	-moz-animation-name: tuhin;
+	
+	-moz-animation-duration: 2s;
+	
+	-moz-animation-iteration-count: infinite;
+	
+	-moz-animation-direction: alternate;
+	
+	-moz-animation-delay: 1s;
+	
+	
+}
+
+@keyframes tuhin  {
+	
+	0%{left: 0; top: 0;}
+	20%{left: 100px; top: 0;}
+	40%{left: 100px; top: 100px;}
+	60%{left: 100px; top: 100px;}
+	80%{left: 0; top: 100px;}
+	100%{left: 0; top: 0;}
+
+}
+
+-webkit-@keyframes tuhin  {
+	
+	0%{left: 0; top: 0;}
+	20%{left: 100px; top: 0;}
+	40%{left: 100px; top: 100px;}
+	60%{left: 100px; top: 100px;}
+	80%{left: 0; top: 100px;}
+	100%{left: 0; top: 0;}
+}
+
+
+
+
+-moz-@keyframes tuhin  {
+	0%{left: 0; top: 0;}
+	20%{left: 100px; top: 0;}
+	40%{left: 100px; top: 100px;}
+	60%{left: 100px; top: 100px;}
+	80%{left: 0; top: 100px;}
+	100%{left: 0; top: 0;}
+}

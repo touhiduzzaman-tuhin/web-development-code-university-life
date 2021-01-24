@@ -1,0 +1,16 @@
+#pic img{
+	
+	height: 300px;
+	max-width: 300px;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	
+}
+
+#pic{
+	
+	padding-left: 150px;
+	padding-top: 50px;
+	background-color: darkslategrey;
+}

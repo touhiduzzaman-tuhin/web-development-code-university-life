@@ -1,0 +1,25 @@
+.div1 {
+	
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	//  float: left;
+}
+
+.div1:hover {
+	
+	background-color: red;
+	width: 200px;
+	height: 200px;
+}
+
+h2 {
+	color: blue;
+}
+
+h2:hover {
+	
+	color: green;
+	font-family: Georgia;
+	font-size:30px;
+}

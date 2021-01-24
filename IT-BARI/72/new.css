@@ -1,0 +1,35 @@
+#div1 {
+	
+	padding: 0;
+	margin: 0;
+	
+}
+
+#div1 li {
+	float: left;
+	list-style: none;
+	margin: 10px;
+	
+}
+
+#div1 li a {
+	
+	text-align: center;
+	text-decoration: none;
+	background-color: blue;
+	color: yellow;
+	padding: 10px;
+	margin: 10px;
+	border: 1pxm solid black;
+	border-radius: 10px;
+	width: 50px;
+	display: block;
+	
+	transition: all 2s ese;
+}
+
+#div1 li a:hover {
+	
+	background-color: #e5e4d7;
+	color:red;
+}

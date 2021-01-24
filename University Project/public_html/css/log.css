@@ -1,0 +1,116 @@
+*{
+	
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header{
+	
+	
+	background-image: url(../images/login.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	
+}
+
+.loginbox{
+	
+	height: 440px;
+	width: 340px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	color: white;
+	background-color: black;
+	padding: 70px;
+	border-radius: 50px;
+}
+
+.logo{
+	
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: -70px;
+	border-radius: 50%;
+	left: 35%;
+}
+
+h1{
+	
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 22px;
+}
+
+.loginbox p{
+	
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+
+.loginbox input{
+	
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.loginbox input[type = "text"], input[type = "password"]
+{
+
+	font-size: 18px;
+	border: none;
+	border-bottom: 1px solid #fff;
+	height: 40px;
+	color: #fff;
+	background: transparent;
+	outline: none;
+
+}
+
+
+.sbmt
+{
+
+	font-size: 20px;
+	border: none;
+	height: 40px;
+	color: #fff;
+	background: red;
+	outline: none;
+	border-radius: 20px;
+	padding: 8px 80px;
+
+}
+
+.sbmt:hover
+{
+
+	cursor: pointer;
+	background: #ffc107;
+	color: #000;
+
+}
+
+
+.loginbox a{
+	
+	text-decoration: none;
+	font-size: 15px;
+	line-height: 20px;
+	color: darkgrey;
+}
+
+
+
+
+
+
+
+

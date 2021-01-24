@@ -1,0 +1,44 @@
+.div1 {
+	
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	
+	animation-name: tuhin;
+	animation-duration: 2s;
+	animation-iteration-count: 5;
+	animation-delay: 2s;
+}
+
+@keyframes tuhin {
+	
+	0% {
+		background-color: green;
+	}
+	
+	20% {
+		background-color: yellow;
+		height: 300px;
+		width: 300px;
+	}
+	
+	40% {
+		background-color: red;
+	}
+	
+	60% {
+		background-color: lime;
+		border-radius: 50%;
+	}
+	
+	80% {
+		background-color: orange;
+		height: 500px;
+	}
+	
+	100% {
+		background-color: green;
+	}
+}
+
+/* Here we can also use webkit */

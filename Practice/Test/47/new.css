@@ -1,0 +1,30 @@
+#test {
+	
+	background-color: #5c755e;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	border: 3px solid black;
+	border-radius: 40px;
+	display: table;
+}
+
+#div1 {
+	
+	display: table-row;
+}
+
+#div1 label {
+	
+	display: table-cell;
+	padding: 3px;
+	text-align: right;
+}
+
+#div1 input {
+	
+	display: table-cell;
+	padding: 3px;
+	//border: 3px solid green;
+	border-radius: 3px;
+}

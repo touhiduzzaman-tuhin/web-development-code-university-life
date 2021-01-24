@@ -1,0 +1,70 @@
+#div1 {
+	
+	background-color: #e5e4d7;
+	color: green;
+	font-family: Georgia;
+	font-size: 15px;
+	padding: 10px;
+	margin: 10px;
+	display: block;
+	width: 300px;
+	float: left;
+	border: 5px solid black;
+	border-radius: 30px;
+}
+
+#div2 {
+	
+	background-color: #e5e4d7;
+	color: green;
+	font-family: Georgia;
+	font-size: 15px;
+	padding: 10px;
+	margin: 10px;
+	display: block;
+	width: 300px;
+	float: left;
+	border: 5px solid black;
+	border-radius: 30px;
+}
+
+#div3 {
+	
+	background-color: #e5e4d7;
+	color: green;
+	font-family: Georgia;
+	font-size: 15px;
+	padding: 10px;
+	margin: 10px;
+	display: block;
+	width: 300px;
+	float: left;
+	border: 5px solid black;
+	border-radius: 30px;
+}
+
+p:first-line {
+	
+	color: red;
+	
+}
+
+p::first-letter {
+	
+	font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

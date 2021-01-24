@@ -1,0 +1,22 @@
+body {
+	
+	background-color:powderblue;
+	font-family:Helvetica;
+	font-size:25px;
+	color:green;
+}
+
+p {
+	
+	color:pink;
+}
+
+.color5 {
+	
+	color:red;
+}
+
+.underline {
+	
+	text-decoration:underline;
+}

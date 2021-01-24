@@ -1,0 +1,34 @@
+span.a {
+	
+	background-color: purple;
+	color: green;
+	display: inline;
+	border: thick dotted orange;
+	padding: 5px;
+	height: 100px;
+	width: 100px;
+	
+}
+
+span.b {
+	
+	background-color: purple;
+	color: green;
+	display: inline-block;
+	border: thick dotted orange;
+	padding: 10px;
+	height: 100px;
+	width: 100px;
+	
+}
+
+span.c {
+	
+	background-color: purple;
+	color: green;
+	display: block;
+	border: thick dotted orange;
+	padding: 10px;
+	height: 100px;
+	width: 100px;
+}

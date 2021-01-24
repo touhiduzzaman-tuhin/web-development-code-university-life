@@ -1,0 +1,217 @@
+/* ============== This is Body ===========*/ 
+
+
+body {
+	
+	margin: 0;
+	background-color: #9c9f84;
+	font-family: Georgia, Arial, Verdana, Arial Black, Geniva;
+	font-size: 14px;
+}
+
+
+
+/* ============== This is Header ===========*/ 
+
+
+#header {
+	
+	background-color: #5c755e;
+	border-radius: 5px;
+	height: 90px;
+	margin: 10px;
+	
+}
+
+#header h3 {
+	
+	text-align: center;
+	font-size: 300%;
+	color: #e5e4d7;
+	margin: 0;
+	
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+
+/* ============== This is Nav-Bar ===========*/ 
+
+
+
+#navbar ul{
+	
+	background-color: black;
+	margin: 10px;
+	border-radius: 5px;
+	
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+	
+
+}
+
+#navbar ul li {
+	
+	display: inline;
+}
+
+#navbar ul li a {
+	
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+	margin: 10px;
+	padding: 10px;
+	font-family: inherit;
+	font-size: 120%;
+	
+}
+
+#navbar ul li a:hover {
+	
+	background-color: #fff;
+	color: #000;
+}
+
+
+/* ============== This is Main ===========*/ 
+
+
+.main {
+	
+	background-color: #e5e4d7;
+	padding: 20px;
+	border-radius: 5px;
+	
+	font-size: 110%;
+	
+	text-align: justify;
+	
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 320px;
+}
+
+
+.main h1 {
+	
+	color: blue;
+	font-size: 120%;
+	text-align: center;
+}
+
+
+/* ============== This is Side-Bar ===========*/ 
+
+
+.sidebar {
+	
+	background-color: #e5e4d7;
+	font-family: Geniva;
+	padding: 20px;
+	width: 260px;
+	border-radius: 5px;
+	
+	float: right;
+	
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-left: 10px;
+	
+	clear: right;
+}
+
+
+.sidebar h2 {
+	
+	color: red;
+	text-align: center;
+	font-size: 150%;
+}
+
+
+/* ============== This is Image-Side-Bar ===========*/ 
+
+
+.image {
+	
+	border-radius: 10px;
+	width: 300px;
+	height: 280px;
+	float: right;
+	
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-left: 10px;
+	
+	clear: right;
+	
+	opacity: 1.0;
+	
+	transition: opacity 0.2s ease-in-out;
+}
+
+.image:hover {
+	
+	opacity: 0.3;
+}
+
+
+/* ============== This is Footer ===========*/ 
+
+
+#footer {
+	
+	background-color: #5c755e;
+	height: 60px;
+	margin: 10px;
+	border-radius: 5px;
+	
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	font-size: 90%; 
+}
+
+
+#footer ul li {
+	
+	display: inline;
+}
+
+#footer ul li a {
+	
+	background-color: #5c755e;
+	color: #fff;
+	text-decoration: none;
+	margin: 10px;
+	padding: 10px;
+	font-family: inherit;
+	font-size: 120%;
+	
+}
+
+#footer ul li a:hover {
+	
+	background-color: #fff;
+	color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

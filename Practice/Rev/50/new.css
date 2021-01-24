@@ -1,0 +1,27 @@
+h1 {
+	
+	color: green;
+	
+}
+
+h2, h3, #para1{
+	
+	text-decoration: underline;
+	
+}
+
+#para1 {
+	
+	color: yellow;
+	
+}
+
+.para2 {
+	
+	color: blue;
+}
+
+div p {
+	
+	font-style: italic;
+}

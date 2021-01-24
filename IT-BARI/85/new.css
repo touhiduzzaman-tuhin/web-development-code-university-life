@@ -1,0 +1,40 @@
+* {
+	
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	
+	background-color: #EEE8AE;
+}
+
+#wraper {
+	
+	width: 960px;
+	margin: 20px auto;
+	
+}
+
+#head {
+	
+	background-color: #FAB72A;
+	
+	padding: 15px;
+	border-bottom: 5px solid #6B710E;
+	
+}
+
+#head h2 {
+	
+	color: #FFFFF1;
+	font-family: Georgia;
+	
+}
+
+#head p {
+	
+	color: #789228;
+	font-family: Georgia;
+	
+}

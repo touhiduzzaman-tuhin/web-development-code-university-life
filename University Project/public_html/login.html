@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		
+		<title> Login </title>
+		
+		<link rel = "stylesheet" type = "text/css" href = "css/log.css">
+	
+	</head>
+
+	
+	<body>
+	
+		<header>
+		
+		
+			<div class = "loginbox">
+			
+				<img src = "images/logo.png" class = "logo">
+				
+				<h1> Login Here </h1>
+				
+				<form name = "addressform">
+				
+					<p> User Name </p>
+					
+					<input type = "text" name = "user_name" placeholder = "Enter User Name">
+					
+					<p> Password </p>
+					
+					<input type = "password" name = "" placeholder = "Enter Password">
+					
+					<a href = "home.html" target = "_blank" class = "sbmt" value = ""
+					onclick = "window.alert('Well Come Back Mr ' +
+						document.addressform.user_name.value);"> Submit </a>
+					
+					<br>
+					<br>
+					
+					<a href = "forgot.html" target = "_blank"> Forgot Your Password ?</a>
+					
+					<br>
+					
+					<a href = "reg.html" target = "_blank"> Don't Have an Account ?</a>
+				
+				</form>
+				
+				<script>
+		
+						var fstnumber,
+							scndnumber,
+							fst,
+							scnd,
+							finalresult,
+							res;
+							
+						fstnumber = window.prompt("Enter A number: ", "0");
+						
+						scndnumber = window.prompt("Enter Another number: ", "0");
+						
+						finalresult = window.prompt("What is summation of your number's?");
+						
+						
+						fst = parseInt(fstnumber);
+						
+						scnd = parseInt(scndnumber);
+						
+						res = fst + scnd;
+						
+						if (finalresult == res)
+						
+						{
+							window.confirm("Your Answer is correct. \n Press Ok and Enjoy!");
+						}
+						
+						else
+						{
+							window.confirm("Your Answer is Wrong. \n Plese Refresh the page and try again");
+						}
+						
+					
+				</script>
+			
+			</div>
+			
+		</header>
+	
+	</body>
+	
+</html>

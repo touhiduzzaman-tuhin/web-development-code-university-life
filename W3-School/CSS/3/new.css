@@ -1,0 +1,42 @@
+p, h1 {
+	
+	color: green;
+	font-size: 30px;
+	text-align: center;
+}
+
+.para1 {
+	
+	border: 2px solid black;
+}
+
+#para1 {
+	
+	margin: 20px;
+	padding: 20px;
+}
+
+h1.para1 {
+	
+	background-color: rgb(255,0,0);
+}
+
+
+h1.para1 {
+	
+	
+	color: pink;
+}
+
+body {
+	
+	background-image: url(web.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	background-attachment: fixed;
+}
+
+/*gkjhgjh
+jjgjkhk
+jkhg
+ */

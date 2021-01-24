@@ -1,0 +1,17 @@
+body {
+	
+	font-size:20px;
+	font-family:Verdana;
+	font-weight:lighter;
+	background-color:#ffcf79;
+}
+
+h1 {
+	
+	font-size:150%;
+}
+
+p {
+	
+	font-size:1.5em;
+}

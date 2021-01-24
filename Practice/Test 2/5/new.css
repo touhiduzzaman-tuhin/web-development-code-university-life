@@ -1,0 +1,31 @@
+body {
+	
+	color: red;
+	font-size: 10px;
+}
+
+h1, h2{
+	
+	font-family: Verdana;
+	color: green;
+	font-size: 25px;
+}
+
+p {
+	
+	font-family: Georgia;
+	color: blue;
+	font-size: 25px;
+}
+
+h1 {
+	
+	border-bottom: 3px solid black;
+	color: black;
+}
+
+h2 {
+	
+	border-top: 3px solid black;
+	font-size: 30px;
+}

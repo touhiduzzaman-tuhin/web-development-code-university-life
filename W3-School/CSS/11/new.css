@@ -1,0 +1,246 @@
+.para1 {
+	
+	border-color: green;
+	border-width: 3px;
+	border-style: solid;
+}
+
+.para2 {
+	
+	border: 5px solid black;
+}
+
+.para3 {
+	
+	border-bottom-color: green;
+	border-bottom-style: groove;
+	border-bottom-width: thin;
+	
+	
+}
+
+.para4 {
+	
+	border-bottom-color: yellow;
+	border-bottom-style: dotted;
+	border-bottom-width: thick;
+	
+	
+}
+
+.para5 {
+	
+	border-bottom-color: orange;
+	border-bottom-style: dashed;
+	border-bottom-width: medium;
+	
+}
+
+.para10 {
+	
+	border-width: 10px 20px 30px 40px;
+	border-style: solid;
+	border-color: green;
+	
+	
+}
+
+.para13 {
+	
+	border: 10px solid black;
+	
+	width: 500px;
+	
+	min-width: 400px;
+	
+	margin: auto;
+	
+	outline: 10px solid green;
+	
+	outline-offset: 20px;
+	
+	background-color: blue;
+}
+
+.para12 {
+	
+	border: 10px solid black;
+	
+	margin: 0px 0px 30px 0px;
+	
+	
+	padding: 0px 0px 30px 0px;
+	
+	height: 100px;
+	min-height: 50px;
+}
+.para11 {
+	
+	border: 10px solid black;
+	
+	margin: 10px 0px 0px 0px;
+	
+	padding: 10px 0px 0px 0px;
+	
+	height: 50px;
+	max-height: 100px;
+	
+	background-color: green;
+	
+	text-decoration: none;
+	
+	direction: rtl;
+}
+
+.para9 {
+	
+	border: 10px solid black;
+	
+	margin: 10px;
+	
+	height: 300px;
+	width: 300px;
+	
+	text-align: center;
+	
+	text-decoration: underline;
+	
+	
+	padding: 10px;
+	
+	word-spacing: -2px;
+}
+
+
+.para8 {
+	
+	border: 10px solid black;
+	
+	margin: 20px;
+	
+	text-align: left;
+	
+	text-decoration: overline;
+	
+	text-transform: uppercase;
+	
+	color: green;
+	
+	
+	padding: 20px;
+	
+	width: 320px;
+	
+	max-height: 100%;
+	
+	outline: 10px solid red;
+	
+	outline-offset: 20px;
+	
+	word-spacing: 5px;
+	
+	font-family: Georgia, Arial Arial, Black;
+	
+	font-weight: normal;
+	
+}
+
+.para7 {
+	
+	border: 10px solid black;
+	
+	margin: 10px 20px 30px;
+	
+	text-indent: 20px;
+	
+	
+	padding: 10px 20px 30px;
+	
+	text-decoration: line-through;
+	
+	text-transform: lowercase;
+	
+	color: yellow;
+	
+	text-align: right;
+	
+	height: 50px;
+	
+	max-width: 50%;
+	
+	outline-color: green;
+	outline-style: dotted;
+	outline-width: 10px;
+	
+	outline-offset: 20px;
+	
+	color: rgb(255,0,0);
+	
+	line-height: 10px;
+	
+	font-family: serif;
+	
+	font-size: 150%;
+	
+	font-style: oblique;
+	
+	font-weight: lighter;
+	
+	
+}
+
+
+.para6 {
+	
+	border: 10px solid black;
+	
+	margin: 10px 20px 30px 40px;
+	
+	letter-spacing: -1px;
+	
+	color: #e5e4d7;
+	
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 30px;
+	padding-top: 40px;
+	
+	font-family: monospace;
+	font-size: 2em;
+	
+	font-style: italic;
+	
+	font-weight: bolder;
+	
+	font-variant: normal;
+	
+}
+
+.para14 {
+	
+	border: 10px solid black;
+	
+	color: #00ff00;
+	
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 30px;
+	margin-top: 40px;
+	
+	padding: 10px 20px 30px 40px;
+	
+	letter-spacing: 2px;
+	
+	text-transform: capitalize;
+	
+	text-align: justify;
+	
+	font-variant: small-caps;
+	
+	font-family: Verdana;
+	font-size: 20px;
+	
+	font-style: normal;
+	
+	font-weight: bold;
+}

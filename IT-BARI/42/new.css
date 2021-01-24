@@ -1,0 +1,16 @@
+.div1 {
+	
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	float: left;
+}
+
+.div2 {
+	
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	float: left;
+	margin-left: 10px;
+}

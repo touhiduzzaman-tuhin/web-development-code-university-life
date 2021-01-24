@@ -1,0 +1,15 @@
+body {
+	
+	font-family:Verdana,Arial,Geniva,Arial Black;
+}
+
+p {
+	
+	color:green;
+	font-size;20px;
+}
+
+h1, h2 {
+	
+	border:5px solid blue;
+}

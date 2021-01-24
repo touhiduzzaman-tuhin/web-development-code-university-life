@@ -1,0 +1,82 @@
+#para1 a {
+	
+	color: green;
+}
+
+#para1 a:hover {
+	
+	color: red;
+}
+
+#para1 a:visited {
+	
+	color: blue;
+}
+
+#para1 a:active {
+	
+	color: red;
+}
+
+#para3 a {
+	
+	background-color: green;
+}
+
+#para3 a:hover {
+	
+	background-color: red;
+}
+
+#para3 a:visited {
+	
+	background-color: blue;
+}
+
+#para3 a:active {
+	
+	background-color: red;
+}
+
+
+#para4 a:link {
+	
+	background-color: green;
+	padding: 10px;
+	margin:10px;
+	font-family: Verdana;
+	font-size: 2em;
+	color: red;
+}
+
+#para4 a:hover {
+	
+	background-color: yellow;
+	padding: 10px;
+	margin:10px;
+	font-family: Verdana;
+	font-size: 2em;
+	color: black;
+}
+
+#para4 a:visited {
+	
+	background-color: red;
+	padding: 10px;
+	margin:10px;
+	font-family: Verdana;
+	font-size: 2em;
+	
+	color: blue;
+}
+
+#para4 a:active {
+	
+	background-color: lime;
+	padding: 10px;
+	margin:10px;
+	font-family: Verdana;
+	font-size: 2em;
+	
+	color: orange;
+}

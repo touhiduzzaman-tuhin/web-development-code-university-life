@@ -1,0 +1,37 @@
+body {
+	
+	font-family: Vardana, Arial, Geniva, Arial Black;
+	font-size: 30px;
+	color:#666;
+	background-color: #e5e4d7;
+	font-weight: bold;
+	
+}
+
+h1, h2 {
+	
+	background-color: purple;
+	color: black;
+	//border-bottom: 1px solid red;
+	border: 5px groove blue;
+}
+
+h1, h2 {
+	
+	color: #e7e7e7;
+}
+
+.para1 {
+	
+	color: #ffcf79;
+}
+
+.para2 {
+	
+	color: powderblue;
+}
+
+.underline {
+	
+	text-decoration: underline;
+}
